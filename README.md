@@ -76,7 +76,7 @@ Life happens. Peace of Mind maintains your focus streak as long as you complete 
 ```
 ┌─────────────────┐      ┌──────────────────────┐      ┌──────────────────────┐      ┌──────────────────┐
 │  1. Morning     │ ───► │  2. Natural Input    │ ───► │  3. Smart Category   │ ───► │  4. 50% Streak   │
-│  Alignment      │      │  (Text / Voice)      │      │  & Auto-Rollover     │      │  Progress Ring   │
+│  Alignment      │      │  (Text)              │      │  & Auto-Rollover     │      │  Progress Ring   │
 └─────────────────┘      └──────────────────────┘      └──────────────────────┘      └──────────────────┘
 ```
 
