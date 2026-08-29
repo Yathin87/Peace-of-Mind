@@ -4,9 +4,7 @@
 
 **A minimalist, mindful productivity ecosystem designed for calm focus, zero-friction task management, and sustainable consistency.**
 
-[![Security: 100% Secure](https://img.shields.io/badge/Security-100%25%20Secure-brightgreen?style=for-the-badge&logo=shieldsdotio)](https://github.com)
 [![Privacy: Zero Cloud Required](https://img.shields.io/badge/Privacy-Zero%20Cloud%20Required-blueviolet?style=for-the-badge&logo=lock)](https://github.com)
-[![License: Open Source](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative)](https://github.com)
 [![Database: Supabase Powered](https://img.shields.io/badge/Database-Supabase%20Powered-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com)
 [![Tech Stack](https://img.shields.io/badge/Tech-HTML5%20%7C%20CSS3%20%7C%20JS-E34F26?style=for-the-badge&logo=html5)](https://github.com)
 
