@@ -82,7 +82,7 @@ Life happens. Peace of Mind maintains your focus streak as long as you complete 
 Start your day with a clean dashboard. Your weekly progress ring displays your momentum, while incomplete tasks from yesterday have automatically rolled over into today's focus list.
 
 ### 2️⃣ Expressive Input
-Type or speak your thoughts into the single input field using natural phrasing or browser voice recognition. No multi-click forms required.
+Type your thoughts into the single input field using natural phrasing or browser voice recognition. No multi-click forms required.
 
 ### 3️⃣ Smart Categorization & Goal Mapping
 Tasks are instantly sorted into core life pillars:
