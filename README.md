@@ -164,17 +164,6 @@ You can run Peace of Mind locally in seconds with **zero build steps** or node p
 > [!NOTE]
 > For security and web API access (such as speech-to-text), the application must be served over an HTTP local server (`http://localhost:8080`) rather than directly opening the `file://` protocol.
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check out the issues page or submit a pull request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 <div align="center">
